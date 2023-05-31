@@ -1,0 +1,55 @@
+$colorprincipal: #344c9c;
+$colorsecundario: #35BDB5;
+$colorfuente: white;
+@import "body";
+@import "header";
+@import "footer";
+
+
+
+
+
+
+.container_servicios{
+    background-color: white;
+    width: 90%;
+    height: 900px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 50px;
+    padding: 5%;
+
+}
+
+
+
+
+
+@media (max-width: 411px) {
+    .container_servicios {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.hijo{
+    border: 4px $colorprincipal solid;
+    border-radius: 4%;
+    transition: all 0.5s;
+    transform: scale(1.0, 1.0);
+    
+}
+.hijo:hover{
+    transform: scale(1.1, 1.1);
+}
+.DW, .MW, .HW, .DG{
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    padding: 12%;
+}

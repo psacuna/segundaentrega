@@ -1,0 +1,24 @@
+footer{
+    background-color: $colorprincipal;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h4{
+        color: $colorfuente;
+        text-align: center;
+        padding: 40px;
+    }
+    .logo_redes{
+        margin: 10px;
+        .logo_face{
+            width: 60px;
+        }
+        .logo_ig{
+            width: 60px;
+        }
+        
+    
+    }
+
+}
