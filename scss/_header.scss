@@ -2,6 +2,7 @@ header{
     background-color: $colorprincipal;
     .logo{
         text-align: left;
+        align-items: center;
     }
     .img_logo{
         width: 80px;
@@ -39,7 +40,7 @@ header{
         }
 
 }
-@media (max-width: 411px) {
+@media (max-width: 420px) {
     .menu {
         display: flex;
         flex-direction: column;

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="91.44mm" height="91.44mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 9144 9144"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="814" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Eras Bold ITC">
+		<font-face-src>
+			<font-face-name name="Eras Bold ITC"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="N" horiz-adv-x="820" d="M48.9997 0l9.66614 102.667 19.0016 347.833 5.33291 140.332 0 76.1669c50.5001,-0.665196 95.1666,-0.999684 133.833,-0.999684 27.6661,0 66.667,0.334488 116.666,0.999684l209.834 -379.498 29.0003 -55.6667c3.33354,54.6652 6.66708,131.499 10.1669,230.332 3.49984,98.6664 5.16661,167 5.16661,204.833 40.1669,-0.665196 72.3326,-0.999684 96.4988,-0.999684 11.0003,0 43.0015,0.334488 95.8336,0.999684l-11.4992 -145.667 -21.6661 -404.5 -2.83464 -116.833c-42.4989,0.667086 -81.9987,0.999684 -119,0.999684 -30.6652,0 -72.9996,-0.332598 -127.166,-0.999684 -17.0003,31.9993 -29.4992,55.1659 -37.6667,69.4998l-82.0006 139.334c-27.1653,45.6661 -51.9987,89.3329 -74.8327,131 -15.0009,26.5001 -30.3326,55.4985 -46.3332,87.1653l-10.0006 -231.832 -4.66582 -195.167c-40.4995,0.667086 -71.3329,0.999684 -92.5001,0.999684 -18,0 -51.4998,-0.332598 -100.834,-0.999684z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Eras Bold ITC";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#344C9C}
+    .fnt0 {font-weight:normal;font-size:5291.67px;font-family:'Eras Bold ITC'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="9144" height="9144"/>
+  <g id="_1378453871360">
+   <g>
+    <g>
+     <rect class="fil1" x="2707.84" y="2785.66" width="1183.53" height="140.52"/>
+     <rect class="fil1" transform="matrix(1.08188E-13 -4.08495 4.08495 1.08188E-13 2707.86 3969.22)" width="289.73" height="34.4"/>
+    </g>
+    <g>
+     <rect class="fil1" x="2999.49" y="3077.23" width="600.33" height="71.28"/>
+     <rect class="fil1" transform="matrix(5.48766E-14 -2.07203 2.07203 5.48766E-14 2999.5 3677.57)" width="289.73" height="34.4"/>
+    </g>
+    <g>
+     <rect class="fil1" x="2303.42" y="2381.25" width="1992.36" height="236.56"/>
+     <rect class="fil1" transform="matrix(1.82124E-13 -6.87661 6.87661 1.82124E-13 2303.45 4373.64)" width="289.73" height="34.4"/>
+    </g>
+   </g>
+   <text x="2713.04" y="6762.75"  class="fil1 fnt0">N</text>
+  </g>
+ </g>
+</svg>

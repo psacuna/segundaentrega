@@ -7,13 +7,30 @@ $colorfuente: white;
 
 
 
+h1{
+    padding: 20px;
+    text-align: center;
+    font-size: 3rem;
+    color: black
+    
+}
 
+h3{
+    padding: 10px;
+    text-align: center;
+    font-size: 22px;
+    color: black 
+}
+
+.card{
+    width: 30rem;
+    padding: 20px;
+}
 
 
 .container_servicios{
     background-color: white;
     width: 90%;
-    height: 900px;
     font-size: 2rem;
     font-weight: bold;
     text-align: center;
@@ -30,7 +47,7 @@ $colorfuente: white;
 
 
 
-@media (max-width: 411px) {
+@media (max-width: 420px) {
     .container_servicios {
         display: flex;
         flex-direction: column;
@@ -53,3 +70,5 @@ $colorfuente: white;
     text-align: center;
     padding: 12%;
 }
+
+
